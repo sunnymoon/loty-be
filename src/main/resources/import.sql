@@ -1,6 +1,17 @@
 INSERT INTO loty (id, name, year) VALUES
-(1, 'Someone', 2020),
-(2, 'SomeOther', 2021),
-(3, 'NewGuy', 2022),
-(4, 'NewGirl', 2023),
-(5, 'Eventually', 2024);
+(1, 'Álvaro Rodrigues', 2009),
+(2, 'Jorge Jordão', 2010),
+(3, 'Henrique Fernandes', 2011),
+(4, 'N/A', 2012),
+(5, 'António Cunha', 2013),
+(6, 'Bruno Gonçalves', 2014),
+(7, 'Filipe Amaral', 2015),
+(8, 'Marcos Simões', 2016),
+(9, 'Sérgio Bogas', 2017),
+(10, 'Rui Neto e David Serrano', 2018),
+(11, 'Rui Neto e David Serrano', 2019),
+(12, 'Filipe Ildefonso', 2020),
+(13, 'João Cortes', 2021),
+(14, 'Xavier Gonçalves', 2022),
+(15, 'André Leitão', 2023),
+(16, '?????????????', 2024);
